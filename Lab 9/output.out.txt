@@ -1,0 +1,5 @@
+[ERROR] : Invalid number format at index 2
+Nilai minimum dari indeks ke 1 - 2 adalah 1
+[ERROR] : Invalid number format at index 2
+Nilai mean dari indeks ke 1 - 4 yang sudah tersortir adalah 16.0
+[ERROR] : Operasi "Hehehe" tidak valid
